@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/github/workflow/status/crowai/api/Python%20Tests" />
 <img src="https://img.shields.io/github/license/ikoide/crow">
 <img src="https://img.shields.io/github/issues/ikoide/crow" />
-</p>
+</p>s
 
 <h3 align="center">  
   <a href="https://github.com/crowai/api">API</a>
@@ -23,6 +23,8 @@
   <span> · </span>
   <a href="https://github.com/crowai/analysis">Analysis</a>
   <span> · </span>
-  <a href="https://github.com/crowai/documentation">Documentation</a>
+    <a href="https://github.com/crowai/interface">Interface</a>
+  <span> · </span>
+  <a href="https://crowai.readthedocs.io/en/latest">Documentation</a>
 </h3>
 <p align="center"><b>Crow AI</b></p>
